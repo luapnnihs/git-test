@@ -22,6 +22,7 @@ class Directory extends Component {
                             <CardTitle>{campsite.name}</CardTitle>
                         </CardImgOverlay>
                     </Card>
+                    debugger
                 </div>  
             );
         });
@@ -36,3 +37,5 @@ class Directory extends Component {
     }
 }
 export default Directory;
+
+//git test
